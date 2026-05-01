@@ -76,5 +76,7 @@ This project demonstrates how Power BI can transform Spotify music data into int
 ## Author
 **Shushree Pranati Swain**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+## 🔗 Connect with Me
+
+👉 [LinkedIn Profile](https://www.linkedin.com/in/shushree-swain)
+👉 [GitHub Profile](https://github.com/Shushree-Data-analyst)
